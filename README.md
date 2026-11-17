@@ -1,4 +1,4 @@
-# OOP-Based Mini Chat System
+S# OOP-Based Mini Chat System
 
 A simple command-line chat application built using Python and Object-Oriented Programming (OOP) concepts.
 
@@ -29,3 +29,7 @@ python main.py
 ## Learning Objective
 
 This project demonstrates how OOP concepts can be used to model a real-world chat system using classes, objects, and their interactions.
+
+
+<img width="359" height="199" alt="{EED7AAC3-EDB8-4D39-BC46-1D85631CF391}" src="https://github.com/user-attachments/assets/59ca3e4e-48ac-41cc-ae59-b67179135916" />
+
